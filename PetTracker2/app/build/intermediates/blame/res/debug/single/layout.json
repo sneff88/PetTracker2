@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Student\\StudioProjects\\PetTracker2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\petentry.xml",
+        "source": "C:\\Users\\Student\\StudioProjects\\PetTracker2\\app\\src\\main\\res\\layout\\petentry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\StudioProjects\\PetTracker2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pet_item.xml",
+        "source": "C:\\Users\\Student\\StudioProjects\\PetTracker2\\app\\src\\main\\res\\layout\\pet_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\StudioProjects\\PetTracker2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showpets.xml",
+        "source": "C:\\Users\\Student\\StudioProjects\\PetTracker2\\app\\src\\main\\res\\layout\\showpets.xml"
+    }
+]
